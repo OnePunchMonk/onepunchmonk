@@ -1,25 +1,30 @@
+<div>
+<h1 align="center">Hi 👋, I'm Avaya Aggarwal</h1>
+<h3 align="center">A ML Enthusiast from India. Open to any remote jobs,internships or projects</h3>
 
-- 👋 Hi, I’m Avaya Aggarwal
-- 🔭 I am a CS Undergrad at <a href="http://www.nsut.ac.in/">Netaji Subhas University of Technology</a>
-- ⚡  I’m interested in Machine Learning, Deep Learning, Computer Vision and Robotics
-- 📫 How to reach me [![Linkedin Badge](https://img.shields.io/badge/-Avaya_Aggarwal-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/avaya-aggarwal/)
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunchmonk&label=Profile%20views&color=0e75b6&style=flat" alt="onepunchmonk" /> </p>
 
-
-### 🔥 My Stats :
-
-
-
-
-<div align="center">
-<p align="center">
-<!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=onepunchmonk&theme=dark&background=0d1117" alt="GitHub Streak Stats"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onepunchmonk&layout=compact&theme=github_dark" alt="Top Languages" height="170px" />
-</p>
+- 😄 Pronouns: He/Him.
   
-</div>
+- 🌱 I’m currently working on multiple projects on **Machine Learning, Computer Vision and Robotics**
 
-<!---
-OnePunchMonk/OnePunchMonk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **aggarwal.avaya27@gmail.com**
+
+
+- 📝 I am a pre final year student at **NSUT**
+
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://github.com/onepunchmonk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://github.com/onepunchmonk" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/avaya-aggarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avaya-aggarwal" height="30" width="40" /></a>
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=onepunchmonk&show_icons=true&locale=en&layout=compact" alt="onepunchmonk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=onepunchmonk&" alt="onepunchmonk" /></p>
+
+
+</div>
