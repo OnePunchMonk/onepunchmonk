@@ -1,6 +1,6 @@
 <div>
 <h1 align="center">Hi 👋, I'm Avaya Aggarwal</h1>
-<h3 align="center">A ML Enthusiast from India. Open to any remote jobs,internships or projects</h3>
+<h3 align="center">An ML Enthusiast from India. Open to any remote jobs,internships or projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunchmonk&label=Profile%20views&color=0e75b6&style=flat" alt="onepunchmonk" /> </p>
 
