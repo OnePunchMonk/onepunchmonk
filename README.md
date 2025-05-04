@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunchmonk&label=Profile%20views&color=0e75b6&style=flat" alt="onepunchmonk" /> </p>
 
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him 
   
 - 🌱 I’m currently working on multiple projects on **Machine Learning, Computer Vision and Robotics**
 
