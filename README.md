@@ -1,6 +1,5 @@
 <div>
  <h1 align="center">Hi 👋, I'm Avaya Aggarwal</h1>
- <h3 align="center">An ML Enthusiast from India. Open to remote collaborations and opportunities </h3>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=4000&pause=1000&color=00FFB3&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Avaya Aggarwal;Welcome+to+my+GitHub!" alt="Typing SVG" />
