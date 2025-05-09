@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him 
   
-- 🌱 I’m currently working on multiple projects on **Machine Learning, Computer Vision and Robotics**
+- 🌱 I’m currently working on multiple projects in **Machine Learning, Computer Vision and Robotics**
 
 - 📫 How to reach me **aggarwal.avaya27@gmail.com**
 
