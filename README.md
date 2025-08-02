@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aggarwal.avaya27@gmail.com**
 
-- 📝 I am a pre final year student at **Netaji Subhas University of Technology, India**
+- 📝 I am a final year student at **Netaji Subhas University of Technology, India**
 
 
 
