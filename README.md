@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunchmonk&label=Profile%20views&color=0e75b6&style=flat" alt="onepunchmonk" /> </p>
 
-- 🌱 I’m currently working on multiple projects in **Machine Learning, Computer Vision and Robotics**
+- 🌱 I’m currently working on projects in **Computer Vision and Robotics**
 
 - 📫 How to reach me **aggarwal.avaya27@gmail.com**
 
