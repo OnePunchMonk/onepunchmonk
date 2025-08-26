@@ -18,9 +18,8 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,postgres,mongodb,flask,git,github,githubactions,docker,kafka,prometheus,grafana,tensorflow,pytorch,matlab,latex,heroku,pytest,jinja" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,postgres,mongodb,flask,fastapi,streamlit,git,github,githubactions,docker,kafka,prometheus,grafana,tensorflow,pytorch,matlab,latex,heroku,pytest,jinja" />
 </p>
-
 
 ---
 
