@@ -1,4 +1,3 @@
-# ✨ Avaya Aggarwal
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,9 +11,8 @@
 
 - 🎓 Final-year **Computer Science student** at [NSUT, India](http://www.nsit.ac.in/)  
 - 🌱 Exploring **Computer Vision**, **Robotics**, and **Data-Intensive Engineering**  
-- 🤝 Open to **remote collaborations** and exciting opportunities  
-- 📫 Reach me at **aggarwal.avaya27@gmail.com**
-
+- 🤝 Open to **remote collaborations** and exciting opportunities
+- 
 ---
 
 ## 🛠️ Languages & Tools
