@@ -10,6 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onepunchmonk&label=Profile%20views&color=0e75b6&style=flat" alt="onepunchmonk" /> </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=onepunchmonk)](https://git.io/streak-stats)
+
 - 🌱 I’m currently exploring projects in **Computer Vision**, **Robotics**, and **Data-Intensive** engineering.
 
 - 📫 How to reach me **aggarwal.avaya27@gmail.com**
