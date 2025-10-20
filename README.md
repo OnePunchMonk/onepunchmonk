@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year **Computer Science student** at [NSUT, India](http://www.nsit.ac.in/)  
+- 🎓 Final-year **Computer Science student** at [NSUT, India](http://www.nsut.ac.in/)  
 - 🚀 Building **data-driven systems** with a focus on **performance & scale**  
 - 🔬 Exploring **Computer Vision, Robotics, and AI Engineering**  
 - 🌍 Open to **remote collaborations** and **research-oriented projects**
