@@ -5,14 +5,12 @@
 </p>
 
 
----
-
 ## 👨‍💻 About Me
-- 🎓 Final-year **Computer Science student** at [NSUT, India](http://www.nsut.ac.in/)  
-- 🔬 Exploring **Computer Vision, Robotics, and AI Engineering**  
-- 🌍 Open to **remote collaborations** and **research-oriented projects**
+- 🎓 I am a final-year **Computer Science** student at **[NSUT, India](http://www.nsut.ac.in/)** .
 
----
+## 🔭 Research Interests  
+- Multimodal learning: vision + language + robotics  
+- Computer vision: perception, 3D understanding, scene flow  
 
 ## 🛠️ Tech Stack
 
@@ -20,9 +18,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,mysql,postgres,mongodb,flask,fastapi,git,github,githubactions,docker,kafka,prometheus,grafana,tensorflow,pytorch,matlab,latex,heroku,pytest,jinja" />
 </p>
 
----
-
-## 📊 GitHub Highlights
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=onepunchmonk&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -33,15 +29,11 @@
   <img src="https://streak-stats.demolab.com?user=onepunchmonk&theme=radical&hide_border=true" height="180"/>
 </p>
 
----
-
 ## 🔗 Connect with Me  
 
 <p align="center">
   <a href="mailto:aggarwal.avaya27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/avaya-aggarwal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
----
 
 <p align="center"><i>⚡ Exploring. Building. Breaking. Learning faster.</i></p>
