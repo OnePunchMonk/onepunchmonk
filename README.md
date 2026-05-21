@@ -9,8 +9,8 @@
 - 🎓 I am a final-year **Computer Science** student at **[NSUT, India](http://www.nsut.ac.in/)** .
 
 ## 🔭 Research Interests  
-- Multimodal learning: vision + language + robotics  
-- Computer vision: perception, 3D understanding, scene flow  
+- Parameter-efficient and representation learning methods for foundation models
+- Multimodal 3D computer vision and visual perception
 
 ## 🛠️ Tech Stack
 
