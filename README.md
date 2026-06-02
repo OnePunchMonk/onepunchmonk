@@ -9,8 +9,9 @@
 - 🎓 I am an ML Engineer/Researcher.
 
 ## 🔭 Research Interests  
-- Parameter-efficient and representation learning methods for foundation models
-- Multimodal 3D computer vision and visual perception
+
+- Vision foundation models: representations, architecture, pretraining, parameter-efficient adaptation, multimodal fusion, applications
+- LLM agents
 
 ## 🛠️ Tech Stack
 
