@@ -11,7 +11,6 @@
 ## 🔭 Research Interests  
 
 - Vision foundation models: representations, architecture, pretraining, parameter-efficient adaptation, multimodal fusion, applications
-- LLM agents
 
 ## 🛠️ Tech Stack
 
