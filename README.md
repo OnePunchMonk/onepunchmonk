@@ -2,10 +2,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Avaya+Aggarwal;Building+Computer+Vision+Systems" alt="Typing SVG" />
 </p>
 
-
-## 👨‍💻 About Me
-- 🎓 I am an ML Engineer/Researcher.
-
 ## 🔭 Research Interests  
 
 - Vision foundation models: representations, architecture, pretraining, parameter-efficient adaptation, multimodal fusion, applications
