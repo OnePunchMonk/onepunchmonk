@@ -1,62 +1,51 @@
 ## Avaya Aggarwal
 
-I work on the layer between a model and the hardware it runs on — optimizers,
-kernels, quantization, and serving — mostly for vision and multimodal models,
-where that layer is least well trodden.
+Optimizers, kernels, quantization, serving. I like the part of the stack where
+you can measure whether you were right.
+
+Lately: VLM inference perf, and post-training for diffusion models.
 
 ---
 
-### Shipped into production training stacks
+### Merged upstream
 
-Eight changes merged into frameworks other teams train on daily.
+**[unsloth](https://github.com/unslothai/unsloth)**
+* [Q-GaLore optimizer, plus a decoupled embedding LR](https://github.com/unslothai/unsloth/pull/4511)
+* [cactus QAT scheme](https://github.com/unslothai/unsloth/pull/4679)
+* [Continued pretraining as a training method](https://github.com/unslothai/unsloth/pull/4677)
+* [OLMo-3 support](https://github.com/unslothai/unsloth/pull/4678)
+* [GGUF flash-attention + tensor-parallel CLI flags](https://github.com/unslothai/unsloth/pull/6561)
 
-**[unsloth](https://github.com/unslothai/unsloth)** — memory-efficient finetuning
+**[axolotl](https://github.com/axolotl-ai-cloud/axolotl)**
+* [MoE routing for ernie4_5_moe and hunyuan_v1_moe](https://github.com/axolotl-ai-cloud/axolotl/pull/3526)
+* [Multiple custom optimizers, with e2e tests](https://github.com/axolotl-ai-cloud/axolotl/pull/3457)
+* [Killed some dead SDPA patches that were shadowing upstream attention](https://github.com/axolotl-ai-cloud/axolotl/pull/3488)
 
-Added [Q-GaLore](https://github.com/unslothai/unsloth/pull/4511) (low-rank gradient projection with
-INT4 statistics) and a decoupled embedding learning rate; [cactus QAT](https://github.com/unslothai/unsloth/pull/4679);
-[continued pretraining](https://github.com/unslothai/unsloth/pull/4677) as a first-class training method;
-[OLMo-3 support](https://github.com/unslothai/unsloth/pull/4678); and
-[GGUF flash-attention with tensor-parallel CLI options](https://github.com/unslothai/unsloth/pull/6561).
+**[litgpt](https://github.com/Lightning-AI/litgpt)**
+* [Pre-flight checkpoint validation, so a bad checkpoint fails in 2s and not 2h](https://github.com/Lightning-AI/litgpt/pull/2214)
 
-**[axolotl](https://github.com/axolotl-ai-cloud/axolotl)** — post-training framework
-
-Built [custom MoE routing for ernie4_5_moe and hunyuan_v1_moe](https://github.com/axolotl-ai-cloud/axolotl/pull/3526),
-[multi-optimizer support with end-to-end tests](https://github.com/axolotl-ai-cloud/axolotl/pull/3457),
-and [removed dead SDPA patches](https://github.com/axolotl-ai-cloud/axolotl/pull/3488) that were
-silently shadowing upstream attention kernels.
-
-**[litgpt](https://github.com/Lightning-AI/litgpt)** — [checkpoint pre-flight validation](https://github.com/Lightning-AI/litgpt/pull/2214),
-catching malformed checkpoints before a multi-hour run wastes the GPU.
-
-**[sktime](https://github.com/sktime/sktime)** — [`relative_to=y_pred` support for percentage-error metrics](https://github.com/sktime/sktime/pull/8335).
+**[sktime](https://github.com/sktime/sktime)**
+* [`relative_to=y_pred` for percentage-error metrics](https://github.com/sktime/sktime/pull/8335)
 
 ---
 
-### Built
+### Mine
 
-**[AgentQuant](https://github.com/OnePunchMonk/AgentQuant)** · 175 stars
+[**AgentQuant**](https://github.com/OnePunchMonk/AgentQuant) (175 stars)
+Give it a list of tickers, it researches and backtests strategies. Has a leakage
+auditor bolted on, since that's how most backtests quietly lie to you.
 
-Turns a stock list into backtested strategies via an agent pipeline over market data.
-Includes a data-leakage auditor, because most backtest results are wrong for the same few reasons.
+[**Oxidized-Vision**](https://github.com/OnePunchMonk/Oxidized-Vision)
+PyTorch vision models to standalone Rust binaries. No Python at runtime. Edge, server, WASM.
 
-**[Oxidized-Vision](https://github.com/OnePunchMonk/Oxidized-Vision)**
+[**KoRA**](https://github.com/OnePunchMonk/KoRA)
+PEFT where the adapters actually talk to each other through a shared CompositionBlock.
 
-Compiles PyTorch vision models to standalone Rust binaries — no Python runtime, no
-framework dependency — targeting edge, server, and WASM.
-
-**[KoRA](https://github.com/OnePunchMonk/KoRA)**
-
-Parameter-efficient finetuning where adapters exchange information through a shared
-CompositionBlock instead of training in isolation.
-
-**[vlm-harness](https://github.com/OnePunchMonk/vlm-harness)**
-
-VLM evaluation with statistical regression testing — flags when a change moves a metric
-beyond run-to-run noise, rather than reporting single-seed deltas.
+[**vlm-harness**](https://github.com/OnePunchMonk/vlm-harness)
+VLM evals with regression testing that knows the difference between a real change
+and seed noise.
 
 ---
-
-### Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=onepunchmonk&show_icons=true&theme=radical&hide_border=true" height="170"/>
@@ -69,4 +58,4 @@ beyond run-to-run noise, rather than reporting single-seed deltas.
 
 ---
 
-Gurugram, India · [avayaaggarwal.com](https://avayaaggarwal.com) · aggarwal.avaya27@gmail.com
+Gurugram · [avayaaggarwal.com](https://avayaaggarwal.com) · aggarwal.avaya27@gmail.com
