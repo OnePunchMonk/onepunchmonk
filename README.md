@@ -4,12 +4,12 @@
 
 ## 🔭 Research Interests  
 
-- Vision foundation models: representations, architecture, pretraining, parameter-efficient adaptation, multimodal fusion, applications
+- Vision models: representations, architecture, applications
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,mongodb,flask,fastapi,git,github,githubactions,docker,kafka,prometheus,grafana,tensorflow,pytorch,matlab,latex,heroku,pytest,jinja" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,pytorch,pytest" />
 </p>
 
 ## 📊 GitHub Analytics
