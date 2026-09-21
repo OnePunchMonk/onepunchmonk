@@ -2,6 +2,8 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Avaya+Aggarwal;Building+Computer+Vision+Systems" alt="Typing SVG" />
 </p>
 
+Standing on the shoulders of giants. Trying to see a little farther :)
+
 ## 🔭 Research Interests  
 
 - Vision models: representations, architecture, applications
