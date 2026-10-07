@@ -8,6 +8,10 @@ Standing on the shoulders of giants. Trying to see a little farther :)
 
 - Vision models: representations, architecture, applications
 
+## 🎓 Currently learning and exploring
+
+- Diffusion inference and post-training
+
 ## 🛠️ Tech Stack
 
 <p align="center">
