@@ -15,7 +15,7 @@ Standing on the shoulders of giants. Trying to see a little farther :)
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,pytorch,pytest" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch" />
 </p>
 
 ## 📊 GitHub Analytics
