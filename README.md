@@ -28,11 +28,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api?username=onepunchmonk&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-kappa-orpin.vercel.app/api/top-langs?username=onepunchmonk&layout=compact&theme=radical&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=onepunchmonk&theme=radical&hide_border=true" height="180"/>
 </p>
 
