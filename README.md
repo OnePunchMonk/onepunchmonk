@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <i>Turning noise into pixels, one denoising step at a time xD</i>
+  <i>Turning noise into pixels, one denoising step at a time</i>
 </p>
 
 <p align="center">
