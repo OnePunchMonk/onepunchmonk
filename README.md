@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/onepunchmonk-banner.png" width="100%" alt="A monk watching noise resolve into a landscape, representing diffusion research" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFB3&center=true&vCenter=true&width=850&lines=Hi+there!+I'm+Avaya+Aggarwal;Building+Diffusion+Models+%26+Systems;From+Noise+to+Pixels" alt="Typing SVG" />
